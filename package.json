@@ -1,0 +1,10 @@
+{
+  "name": "mapbox",
+  "version": "0.1.0",
+  "dependencies": {
+    "mapbox-gl": "^1.7.0",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.1",
+    "nodemon": "^2.0.1"
+  }
+}
